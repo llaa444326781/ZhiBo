@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="主题模式">
+        <menu>
+            <item
+                android:showAsAction="never"
+                android:id="@+id/day1"
+                android:title="日间模式"/>
+            <item
+                android:showAsAction="never"
+                android:id="@+id/night1"
+                android:title="夜间模式"/>
+        </menu>
+    </item>
+</menu>

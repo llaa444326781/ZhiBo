@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#259B24</color>
+    <color name="colorPrimaryDark">#259B24</color>
+    <color name="colorAccent">#fff</color>
+    <color name="viewBackground">#fff</color>
+    <color name="textColorPrimary">#000</color>
+    <color name="tablayout">#259B24</color>
+    <color name="floatingactionButton">#259B24</color>
+</resources>
